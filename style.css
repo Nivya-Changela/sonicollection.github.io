@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+
+}
+body{
+height: 100%;
+}
+div.header{
+
+	text-align: center;
+    background-color: #3A5A8B;
+    padding: 20px;
+}
+.header p{
+	color: #C7D8F2;
+}
+h1{
+	color: white;
+}
+div.prod{
+   width: 65%;
+   padding-top: 75px;
+   float:right;
+   text-align: center;
+   color: black;
+   background: url(https://static.dezeen.com/uploads/2014/01/Cobrina-wooden-furniture-collection-by-Torafu-Architects_dezeen_1sq.jpg)no-repeat;
+   background-size: auto;
+   height: 348px;
+   background-size: cover;
+   
+}
+
+
+div.t2{
+	background-color: #C7D8F2;
+	color: black;
+	padding: 20px;
+	width: 35%;
+	float: left;
+
+}
+div.open{
+	padding-bottom: 20px;
+}
+ .open h2{
+ 	color: #3A5A8B;
+ }
+.cont h2{
+	color: #3A5A8B;
+}
+.t0{
+	width: 100%;
+}
